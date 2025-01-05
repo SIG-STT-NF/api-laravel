@@ -8,10 +8,10 @@ INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (17, 'BEN
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (18, 'LAMPUNG', 'LAMPUNG', -4.855500, 105.027300);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (19, 'KEPULAUAN BANGKA BELITUNG', 'KEPULAUAN BANGKA BELITUNG', -2.757750, 107.583940);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (21, 'KEPULAUAN RIAU', 'KEPULAUAN RIAU', -0.154780, 104.580370);
-INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (31, 'DKI JAKARTA', 'DKI JAKARTA', 6.174500, 106.822700);
+INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (31, 'DKI JAKARTA', 'DKI JAKARTA', -6.173444435101715, 106.82663369901593);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (32, 'JAWA BARAT', 'JAWA BARAT', -6.889170, 107.640470);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (33, 'JAWA TENGAH', 'JAWA TENGAH', -7.303240, 110.004410);
-INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (34, 'DI YOGYAKARTA', 'DI YOGYAKARTA', 7.795600, 110.369500);
+INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (34, 'DI YOGYAKARTA', 'DI YOGYAKARTA', -7.800910481612178, 110.36484405370163);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (35, 'JAWA TIMUR', 'JAWA TIMUR', -6.968510, 113.980050);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (36, 'BANTEN', 'BANTEN', -6.445380, 106.137560);
 INSERT INTO provinces (id, name, alt_name, latitude, longitude) VALUES (51, 'BALI', 'BALI', -8.235660, 115.122390);
